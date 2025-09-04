@@ -1,6 +1,6 @@
 package proxyD;
 
-public class ProxyDesignPattern {
+public class ProxyDesignPatternMain {
     public static void main(String[] args) {
         BankAccount account = new ProxyBankAccount("User");
         account.deposit(1000);

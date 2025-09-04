@@ -1,6 +1,6 @@
 package strategyDP;
 
-public class StrategyDesignPattern {
+public class StrategyDesignPatternMain {
     public static void main(String[] args) {
 
         PaymentService paymentService = new PaymentService(new CreditCardPayment());
