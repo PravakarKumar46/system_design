@@ -1,4 +1,4 @@
-package chainOfresponsibilityDP;
+package behavioural.chainOfresponsibilityDP;
 
 public class InfoLogProcessor extends LogProcessor{
 

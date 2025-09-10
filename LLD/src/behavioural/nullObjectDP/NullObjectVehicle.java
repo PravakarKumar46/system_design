@@ -1,4 +1,4 @@
-package nullObjectDP;
+package behavioural.nullObjectDP;
 
 public class NullObjectVehicle implements Vehicle {
     @Override

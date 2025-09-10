@@ -1,4 +1,4 @@
-package nullObjectDP;
+package behavioural.nullObjectDP;
 
 public class NullObjectDesignPatternMain {
     public static void main(String[] args) {
